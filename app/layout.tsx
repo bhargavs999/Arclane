@@ -18,8 +18,9 @@ import { ThemeProvider } from "@/components/providers/ThemeProvider";
 import { QueryProvider } from "./providers/QueryProvider";
 
 export const metadata: Metadata = {
-  title: "Flowfoundry - Project Management",
-  description: "Plan projects, track tasks, and keep teams aligned.",
+  title: "Arclane",
+  description:
+    "Engineering change control for production systems.",
 };
 
 export default function RootLayout({

@@ -268,7 +268,7 @@ useEffect(() => {
               <span className="brand-chip h-8 w-8">
                 <Workflow className="h-5 w-5" />
               </span>
-              Flow<span className="font-bold">foundry</span>
+              Arclane
             </Link>
 
             {/* Desktop */}
